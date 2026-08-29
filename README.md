@@ -30,3 +30,13 @@ Multivariate statistical modeling and regression analysis built in R. Focuses on
 
 ### LAB-6
 #### Result in the File.
+
+# .....................................................................
+
+### LAB-7
+#### Result in the File.
+
+# .....................................................................
+
+### LAB-8
+#### Result in the File.
